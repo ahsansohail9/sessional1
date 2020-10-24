@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: whitesmoke;
+
+}
+
+
+
+#carousel{
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 40%;
+}
+
+.carousel-caption{
+    color: black;
+    background: none;
+}
+
+.left{
+    float: left;
+    border: solid 2px ;
+    border-color: black;
+    width: 25%;
+    background-color: white;
+    position: sticky;
+    top: 0;
+}
+
+.right{
+    float: right;
+    border: solid 2px ;
+    border-color: black;
+    width: 28%;
+    background-color: rgb(255, 253, 246);
+    position: sticky;
+    top: 0;
+}
+
+
+.right2{
+    text-align: center;
+    background-color: rgb(172, 172, 172);
+    position: sticky;
+    top: 0;
+}
+
+
+
+.cont{
+    border: solid 2px;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: white;
+}
+
+.cont2{
+    border: solid 2px;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: white;
+}
+
+
+.feature{
+    border: solid 2px;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: whitesmoke;
+}
+
